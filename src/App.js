@@ -1,7 +1,5 @@
 import React, { Component } from 'react';
 import './App.css';
-import UserForm from './UserForm';
-import UserTable from './UserTable';
 import UserList from './UserList';
 
 class App extends Component {
